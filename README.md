@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iVergoes
 - 👀 I’m interested in Programming. playing video games and learning things in general.
-- 🌱 I’m currently learning Vue 3.
+- 🟧 Mainly working with Sveltje.js and Python these days.
 - 💼 I'm currently working on a Web Based Project.
 - 📫 You can reach me at ivergoes@gmail.com
